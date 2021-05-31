@@ -12,6 +12,8 @@ Este software esta realizado sobre la base del ya conocido procesador ESP32 y un
 
 https://raw.githubusercontent.com/eb4cuv/CAT_857_ESP32_TFT/
 
+https://github.com/eb4cuv/CAT_857_ESP32_TFT/blob/main/screenshot_2021_5_31_12_43_55.png
+
 
 file:///home/julio/Escritorio/presentacion.jpg![presentacion](https://user-images.githubusercontent.com/53334131/120209270-c4256000-c22e-11eb-8882-b65f067ae907.jpg) file:///home/julio/screenshot_2021_5_31_12_56_46.png![screenshot_2021_5_31_12_56_46](https://user-images.githubusercontent.com/53334131/120209080-8a545980-c22e-11eb-8495-a1157b31166b.png)
 file:///home/julio/screenshot_2021_5_31_12_54_34.png![screenshot_2021_5_31_12_54_34](https://user-images.githubusercontent.com/53334131/120209150-9e985680-c22e-11eb-92c2-357e0fcbb036.png)
