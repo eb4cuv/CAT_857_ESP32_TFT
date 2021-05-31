@@ -10,6 +10,11 @@ This software is based on the well-known ESP32 processor and a 3.2-inch TFT touc
 Este software esta realizado sobre la base del ya conocido procesador ESP32 y un TFT tactil de 3,2 pulgadas. En su diseño se ha pensado principalmente en la sencillez de construccion y uso asi como en abaratar los costes.
 
 
+![screenshot_2021_5_31_12_43_55](https://user-images.githubusercontent.com/53334131/120244330-3cf5dd80-c26a-11eb-8194-2388120963a4.png)
+
+
+
+
 https://raw.githubusercontent.com/eb4cuv/CAT_857_ESP32_TFT/
 
 https://github.com/eb4cuv/CAT_857_ESP32_TFT/blob/main/screenshot_2021_5_31_12_43_55.png
