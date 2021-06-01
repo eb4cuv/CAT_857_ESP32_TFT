@@ -17,8 +17,6 @@ Esta diseñado para funcionar con la FT857. En otros modelos como la FT817 y FT8
 
 ![presentacion](https://user-images.githubusercontent.com/53334131/120345459-c8b74a80-c2fa-11eb-943c-33843e7dac18.jpg)
 
-![presentacion](https://user-images.githubusercontent.com/53334131/120245656-1f2a7780-c26e-11eb-97bf-d1c6ad0c3991.jpg)
-
 
 ## Pantalla principal con los VFO's
 ![screenshot_2021_5_31_12_54_34](https://user-images.githubusercontent.com/53334131/120244333-3d8e7400-c26a-11eb-9e56-61bebb79487f.png)
