@@ -15,6 +15,8 @@ Esta diseñado para funcionar con la FT857. En otros modelos como la FT817 y FT8
 
 ## Estas son algunas de las pantallas:
 
+![presentacion](https://user-images.githubusercontent.com/53334131/120345459-c8b74a80-c2fa-11eb-943c-33843e7dac18.jpg)
+
 ![presentacion](https://user-images.githubusercontent.com/53334131/120245656-1f2a7780-c26e-11eb-97bf-d1c6ad0c3991.jpg)
 
 
