@@ -4,7 +4,7 @@
 This software is based on the well-known ESP32 processor and a 3.5-inch (480x320) TFT touch screen. In its design it has been thought mainly in the simplicity of construction and use as well as in reducing costs.
 
 
-It is designed to work with the FT857. In other models such as FT817 and FT897 it can work but not all functions are available because the memory map is different. It is a pending issue to be developed in the future.
+It is designed to work with the FT857. In other models such as FT817 and FT897 it can work but not all functions are available because the memory map is diferent. It is a pending issue to be developed in the future.
 
 ------------------------------------------------------
 Este software esta realizado sobre la base del ya conocido procesador ESP32 y un TFT tactil de 3,5 pulgadas (480x320). En su diseño se ha pensado principalmente en la sencillez de construccion y uso asi como en abaratar los costes.
