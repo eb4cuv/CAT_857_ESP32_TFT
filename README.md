@@ -26,6 +26,7 @@ Esta diseñado para funcionar con la FT857. En otros modelos como la FT817 y FT8
 
 ## Radio de OM y OC
 
-![screenshot_2021_5_31_12_43_55](https://user-images.githubusercontent.com/53334131/120244330-3cf5dd80-c26a-11eb-8194-2388120963a4.png)
+![screenshot_2021_5_31_12_44_12](https://user-images.githubusercontent.com/53334131/120474239-3ec5bb00-c3a8-11eb-89c9-8d960142a7e5.jpg)
+
 
 
