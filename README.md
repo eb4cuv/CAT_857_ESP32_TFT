@@ -7,9 +7,9 @@ This software is based on the well-known ESP32 processor and a 3.5-inch (480x320
 It is designed to work with the FT857. In other models such as FT817 and FT897 it can work but not all functions are available because the memory map is diferent. It is a pending issue to be developed in the future.
 
 ------------------------------------------------------
-Este software esta realizado sobre la base del ya conocido procesador ESP32 y un TFT tactil de 3,5 pulgadas (480x320) http://www.lcdwiki.com/3.5inch_SPI_Module_ILI9488_SKU:MSP3520. En su diseño se ha pensado principalmente en la sencillez de construccion y uso asi como en abaratar los costes.
+Este software esta realizado sobre la base del ya conocido procesador ESP32 y un TFT tactil de 3,5 pulgadas (480x320) http://www.lcdwiki.com/3.5inch_SPI_Module_ILI9488_SKU:MSP3520. En su diseño se ha pensado principalmente en la sencillez de construccion y uso asi como en abaratar costes.
 
-Esta diseñado para funcionar con la FT857. En otros modelos como la FT817 y FT897 puede funcionar tambien pero no todas las funciones estan disponibles porque la memmoria de unas y otras es disitinta. Es un tema pendiente a desarrollar en un futuro.
+Esta diseñado para funcionar con la Yaesu FT857. En otros modelos como la FT817 y FT897 puede funcionar tambien pero no todas las funciones estan disponibles porque la memmoria de unas y otras es disitinta. Es un tema pendiente a desarrollar en un futuro.
 
 
 ------------------------------------------------------
