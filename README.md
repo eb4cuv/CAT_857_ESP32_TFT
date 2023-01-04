@@ -11,6 +11,8 @@ Este software esta realizado sobre la base del ya conocido procesador ESP32 y un
 
 Esta diseñado para funcionar con la FT857. En otros modelos como la FT817 y FT897 puede funcionar tambien pero no todas las funciones estan disponibles porque la memmoria de unas y otras es disitinta. Es un tema pendiente a desarrollar en un futuro.
 
+Display usado: http://www.lcdwiki.com/3.5inch_SPI_Module_ILI9488_SKU:MSP3520
+
 ------------------------------------------------------
 
 ## Estas son algunas de las pantallas:
